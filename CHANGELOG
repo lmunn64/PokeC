@@ -1,0 +1,389 @@
+commit aed693a8c4b8fd7905cd59b529f40f496eda0818
+Author: unknown <lmunn64@gmail.com>
+Date:   Fri May 3 17:00:07 2024 -0500
+
+    finished 1.10 with sound effects, item buying, leveling up with moves added, battle payout and new menuing, timing and structure of project.
+
+commit 97ec1510de290f6581742af2f88d64763c000bcc
+Author: unknown <lmunn64@iastate.edu>
+Date:   Fri May 3 13:35:36 2024 -0500
+
+    started move leveling up
+
+commit 3b6c0f31916844c330e9b2527912e42093a0d371
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Apr 30 20:54:52 2024 -0500
+
+    Experience points calculated at end of battle, need to apply to player pokemon and implement leveling up.
+
+commit 98854e0af3f3407c066932328cb911d66c537c51
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Apr 30 18:09:30 2024 -0500
+
+    added musisc through SDL2_mixer. Music triggereed on different types of pokemon battles and at pokecenters/marts. All go back to the background music which loops. pokedollars implemented to further flesh the pokemart out and get payouts with battles.
+
+commit 1b4a895189af17a2499d75ae497a2ea5f49c01e1
+Merge: ea9664b bdcc026
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Apr 30 14:05:59 2024 -0500
+
+    merge
+
+commit ea9664b737827269adae3af0d612cc6614c71a22
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Apr 30 14:05:13 2024 -0500
+
+    merge
+
+commit bdcc02632ab295b37238767ed4b35d251a69a28f
+Author: unknown <lmunn64@gmail.com>
+Date:   Mon Apr 29 19:19:39 2024 -0500
+
+    initialized 1.10 final iteration. Organized entire file structure and created new header files to better organize the project. All required files are located in ./src.
+
+commit e021afbb6e9c026f75d4c1a6d7b8036cd0528d12
+Author: unknown <lmunn64@gmail.com>
+Date:   Thu Apr 18 01:46:46 2024 -0500
+
+    completed 1.09 with fully functional battling system, color, and item/health manipulation through PokeCenters and Marts.
+
+commit c37a28dd80801b5b45a523ef8fd58e875a874ec4
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Apr 17 16:53:47 2024 -0500
+
+    added color
+
+commit 12db699e9901170883f078433cbebb6386ac3934
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Apr 16 22:12:10 2024 -0500
+
+    initialized 1.09, creating a fully functioning menu battle system that displays each trainers pokemon and options to fight, run, use items, and change pokemon. All of which need to be implemented.
+
+commit d3de9b7ab3017e103bd731153cfcecbbd36e335b
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Apr 10 23:53:07 2024 -0500
+
+    finished 1.08 implementation, with choosing starter, trainer pokemon and displays all completed
+
+commit 20a3cb5ecb0e0128293fd5553228f9c58fb3806d
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Apr 10 19:00:47 2024 -0500
+
+    stats produced for each pokemon spawned, next is to give them shiny percentages, displaying stats and giving pc a pokemon
+
+commit b5f5d66ddb6f663d6533733c569c961295e4e748
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Apr 9 22:04:00 2024 -0500
+
+    moveset working, next create stats for each pokemon and give trainers their own
+
+commit 6e5f435b5cf03216e57c68bb664a2c16fbd8cf20
+Merge: 7ccd4fd 5ccaf3a
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Apr 9 20:25:28 2024 -0500
+
+    merge
+
+commit 5ccaf3a25d74ab81d1039f1521cc0c3632d8847a
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Apr 9 20:10:55 2024 -0500
+
+    1.08 initialized, displays pokemon encounter and level. Need to create stats and choose pokemon for pc to have
+
+commit 7ccd4fddb67800b2d361c357c3081f3ca5a7277a
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Apr 3 17:54:59 2024 -0500
+
+    working 1.07
+
+commit 96625bf4290b6b4907fe3153894bfb59e4ad0256
+Merge: 5a53dc9 79dad37
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Apr 3 15:57:43 2024 -0500
+
+    merge complete
+
+commit 5a53dc9e2c50dc323c9c1cc4c4d4ef081255ebdc
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Apr 3 15:57:19 2024 -0500
+
+    merge
+
+commit 79dad37d022e92b53e611e0e0a6fd29d6dc7994e
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Apr 3 15:32:23 2024 -0500
+
+    printing parsed data
+
+commit cc60387efcbac6f95a778d32ec1ac0192952ebdc
+Merge: e85b7cd 181c9de
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Apr 3 12:18:03 2024 -0500
+
+    completed merge
+
+commit e85b7cdbede9081a8c2888b6116954e1f01f7099
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Apr 3 12:17:23 2024 -0500
+
+     merge
+    '
+
+commit 181c9debd6c4531c61b42155775268cbf6b8dbb0
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Apr 2 23:45:01 2024 -0500
+
+    array of classes not working
+
+commit e1290777d1665073976a8ffc1ac4d1b9fadc3905
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Apr 2 19:36:34 2024 -0500
+
+    Progress made on parsing numbers in files
+
+commit bbb8726bf5c7f930781b14c46ab92c76d550ef9b
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Apr 2 14:26:49 2024 -0500
+
+    Input prompt written
+
+commit 718499885df359f08570b15f39461287e916c75d
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Mar 27 20:12:40 2024 -0500
+
+    fully functioning C++ version of 1.06, allowing users to travel between maps
+
+commit 98ed053ece135bc7c4c0a32602f80a458ab080ff
+Merge: 0feee11 89b7ef5
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Mar 27 17:20:57 2024 -0500
+
+    merge
+
+commit 0feee11a93400775f1fec90b1ad5c1defaf018f8
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Mar 27 17:19:52 2024 -0500
+
+    map movement complete, flying function giving segmentation fault
+
+commit 89b7ef53647fb80c951c54f85b7314033e0cdfc2
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Mar 20 23:30:34 2024 -0500
+
+    Fully functional 1.05 assignment. Check README!
+
+commit 1bc30678ec3bb41c7a28390b12948959d256113d
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Mar 20 16:47:44 2024 -0500
+
+    nearly complete 1.05, fix collisions for explorers and other npcs
+
+commit ef7c950092ad8babf29ed966d70770981cb9695b
+Merge: 3fb4748 a9f8d1b
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Mar 20 13:02:09 2024 -0500
+
+    merge
+
+commit 3fb4748ebc6e15eba979c237698288213d16bb73
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Mar 20 13:01:34 2024 -0500
+
+    old
+
+commit a9f8d1bd687932248cb9358971876a94a96a69c4
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Mar 20 01:04:39 2024 -0500
+
+    curses color demo
+
+commit 5a7ed2e9c2a12d28562a5a94d9e91ac021a19720
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Mar 20 00:44:31 2024 -0500
+
+    Trainer menu and relative coordinates complete, movement finished, NPC collision fixed. Ready for battles, entering PC and PM and color.
+
+commit 75660364ebf6c6cfe252ff54c9d3abc00af718d3
+Merge: c545114 4511157
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Mar 19 19:24:59 2024 -0500
+
+    merged
+
+commit c545114c70168bac6bddd97deb2cb104b81e739c
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Mar 19 19:24:07 2024 -0500
+
+    old
+
+commit 4511157779569fdc7928b46f188891f2f9c07073
+Author: unknown <lmunn64@iastate.edu>
+Date:   Mon Mar 18 16:51:32 2024 -0500
+
+    implemented curses to print map, movement in progress. Check for collisions for PC.
+
+commit 2e00e585303d9957f09b90bf15bb54c3d4353baa
+Merge: e50f09e fffd038
+Author: unknown <lmunn64@iastate.edu>
+Date:   Mon Mar 18 14:07:47 2024 -0500
+
+    fixed segmentation fault
+
+commit e50f09eb9d3b7f3193df73eed9fd56d184517442
+Author: unknown <lmunn64@iastate.edu>
+Date:   Mon Mar 18 14:04:29 2024 -0500
+
+    old
+
+commit fffd038124fb96107d6876aa8b95fe4ab2792dd2
+Author: unknown <lmunn64@gmail.com>
+Date:   Thu Feb 29 01:56:28 2024 -0600
+
+    Finished 1.04
+
+commit 73d9cd3fdfedfae4fcf59b9a43f25aa057a592af
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Feb 28 21:23:17 2024 -0600
+
+    working collison for moving NPCS, working heap, and screen
+
+commit 4608a7aa7192ab5196733a9ff1f57c26adb7adcf
+Merge: 53e1e00 841a353
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Feb 28 15:29:00 2024 -0600
+
+    merge
+
+commit 53e1e00e56656bf2d144f161d13247f762ceb53f
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Feb 28 15:25:45 2024 -0600
+
+    segmentation fault fixed, started heap initialization for pc and follower NPCs
+
+commit db207a7c8b7269f3d4118e46b54791c69db790b8
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Feb 28 12:25:52 2024 -0600
+
+    Seg fault occuring still
+
+commit 841a353585e58df2bd27426378aa6576e137f360
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Feb 27 23:50:52 2024 -0600
+
+    seg error still happening. need to account for cost in npc queue, and fill out boundary stuff
+
+commit c4ac735fae93f1c513ee4a80e5e22695843c2fc9
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Feb 27 20:47:32 2024 -0600
+
+    seg fault on djikstras
+
+commit 4b41ee34b541ca4909bb2ffe5162aa2fc3f85003
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Feb 27 18:14:30 2024 -0600
+
+    started 1.04, map placing npc char and terrain char, fix
+
+commit 46aae11c2b2f2e46e70ca0245af061265758026b
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Feb 20 18:55:50 2024 -0600
+
+    Updated CHANGELOG
+
+commit c68a21fbfe345e7f2e81d174e0f878a84eaf570f
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Feb 20 18:50:57 2024 -0600
+
+    Completed 1.03 with working dijkstras representing the hiker and rival distance maps
+
+commit d9d255667aeb115295f1c59aa5fe4f5d74196c01
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Feb 20 11:23:36 2024 -0600
+
+    working dijkstras however borders are being counted as 0, must fix. Only printing hiker map
+
+commit c9fed41d08fc11f75e748f74ce6c765f55b1072a
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Feb 14 11:18:30 2024 -0600
+
+    Started 1.03. Changed terrain representation in code as enum and print as a switch case. Outter edges of map are not being printed as blank fordijkstras.
+
+commit 232e0371fb0dc3d69f83de024c05b5b69631e4ab
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Feb 7 19:56:46 2024 -0600
+
+    added readme
+
+commit f58f184252eb7310528d409209d13f580233c3ea
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Feb 7 19:50:28 2024 -0600
+
+    1.02 completed with working gate connections, map generation, movement logic, and pokemart and center probability logic
+
+commit ebd05ee123603c44d6601a6dec8437ad2f868a7b
+Author: unknown <lmunn64@gmail.com>
+Date:   Wed Feb 7 18:17:23 2024 -0600
+
+    Exits connect, fly function and coordinates are properly displayed
+
+commit 85d8af8c4c47669640cb832898348405b16dadaf
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Feb 6 22:19:29 2024 -0600
+
+    implemented world map which holds generated screens
+
+commit 98ffbd4fe6a79b5d77f29ca95dbd6e64907e2937
+Author: unknown <lmunn64@iastate.edu>
+Date:   Wed Jan 31 17:10:45 2024 -0600
+
+    Working and completed version 1.0.1
+
+commit 4df9d8eac35a5b6670a29739e0d22a0c0a7867fe
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Jan 30 22:17:03 2024 -0600
+
+    added exits on border
+
+commit 125df75c702ea0ffe77d1f4ba21b80ad4b6b17da
+Merge: 735aab2 33add5a
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Jan 30 21:56:01 2024 -0600
+
+    Merge branch 'main' of https://github.com/lmunn64/ComS327
+
+commit 735aab24c83f699b5d5dd8b9dcbed35c6ee5fce8
+Author: unknown <lmunn64@gmail.com>
+Date:   Tue Jan 30 21:55:40 2024 -0600
+
+    Created working generator without pokemarts and centers
+
+commit 33add5afc4dc64af76e3215214585373dfe3b5cd
+Author: Luke Munn <145295385+lmunn64@users.noreply.github.com>
+Date:   Tue Jan 30 19:54:15 2024 -0600
+
+    Update README.md
+
+commit 9ab1335ea6bb4170f99d46af39ff049cfa6b9b95
+Author: Luke Munn <145295385+lmunn64@users.noreply.github.com>
+Date:   Tue Jan 30 19:53:20 2024 -0600
+
+    Create README.md
+
+commit 8b9232dc63987eb2f9777cebc6365d90aac00a8a
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Jan 30 19:34:47 2024 -0600
+
+    commit for desktop
+
+commit cd8210e513840d98e1e64df6204c1fe2ddf9e32c
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Jan 30 10:32:53 2024 -0600
+
+    created expandSeed function which expands a char on the grid around it if the space around it is empty
+
+commit 3cd01ef3a82e732a8719dae170ba3c01e9cb98a7
+Author: unknown <lmunn64@iastate.edu>
+Date:   Tue Jan 30 09:34:28 2024 -0600
+
+    Initialized pokemon 1.01 with random seed placed for 3 terrains
+
