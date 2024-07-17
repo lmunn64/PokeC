@@ -37,7 +37,7 @@ For use in Linux terminal with SDL2 installed for sound, and ncurses installed f
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-![Alt text](relative%20path/to/Battle.jpg?raw=true "Title")
+![Alt text](Battle.jpg?raw=true "Title")
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
