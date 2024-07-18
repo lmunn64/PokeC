@@ -28,7 +28,6 @@ For use in Linux terminal with SDL2 installed for sound, and ncurses installed f
    sudo apt-get install libncurses5-dev libncursesw5-dev
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
