@@ -34,13 +34,10 @@ For use in Linux terminal with SDL2 installed for sound, and ncurses installed f
 
 <!-- USAGE EXAMPLES -->
 ## Screenshots
+<p align = "center"><img src = "MainPokemonScreen.jpg"/></p>
+<p align = "center"><img src = "Battle.jpg"/></p>
+<p align= "center">*USE WASD TO CONTROL BATTLE AND BAG MENUS*</p>
 
-![Alt text](MainPokemonScreen.jpg?raw=true "Main World Screen")
-![Alt text](Battle.jpg?raw=true "Battle Screen")
-*USE WASD TO CONTROL BATTLE AND BAG MENUS*
-
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
 
